@@ -13,7 +13,7 @@ Proprietary machine learning models and research-specific algorithms are exclude
 - Integration-ready for **Apple HealthKit** glucose data.
 - Interactive daily glucose charts.
 - MVVM architecture with clean separation of concerns.
-- Prepared for **on-device ML inference using CoreML** (mocked in this demo).
+- Prepared for **on-device ML inference using CoreML**.
 
 <img width="483" height="523" alt="app_screenshot" src="https://github.com/user-attachments/assets/d8e6bdb1-5034-47f7-8196-587c96fe4cae" />
 
