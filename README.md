@@ -7,8 +7,6 @@ HypoGuardian is an iOS application prototype designed to explore how mobile apps
 This public repository contains a **UI and architecture demo version** of the app.  
 Proprietary machine learning models and research-specific algorithms are excluded due to confidentiality constraints.
 
----
-
 ## 📱 Application Features
 
 - Built with **SwiftUI**.
@@ -18,8 +16,6 @@ Proprietary machine learning models and research-specific algorithms are exclude
 - Prepared for **on-device ML inference using CoreML** (mocked in this demo).
 
 <img width="483" height="523" alt="app_screenshot" src="https://github.com/user-attachments/assets/d8e6bdb1-5034-47f7-8196-587c96fe4cae" />
-
----
 
 ## 🧠 Technical Background
 
@@ -33,15 +29,11 @@ The original project combines mobile development and machine learning:
 
 <img width="1702" height="1408" alt="arch-diagram" src="https://github.com/user-attachments/assets/e049a5d9-5fc7-45f4-9f43-16d6a7fce0f1" />
 
----
-
 ## 🛠️ Tech Stack
 
 - **iOS App**: SwiftUI, SwiftData, HealthKit
 - **Architecture**: MVVM
 - **Machine Learning (excluded in demo)**: CoreML (model integration layer mocked)
-
----
 
 ## 🎓 Context
 
